@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">dclApp</string>
+    <string name="step_1">AGREEMENT,OATH,VIDEO CV,GOOGLE SITE</string>
+    <string name="step_2">Collect laptop application form</string>
+    <string name="step_3">DSA CLEARANCE</string>
+    <string name="step_4">Get The Laptop</string>
+    <string name="step_2_des">Please go to the Daffodil Student Affairs(DSA) office and collect the printed laptop application form. 
+        \n
+        \n
+        \nDSA Office Address:
+        \nOffice of the Director of Student\'s Affairs(DSA Office)
+        \nLevel-4, Daffodil Tower-5
+        \n4/2, Sobhanbagh, Mirpur Road
+        \nDhaka-1207
+    </string>
+    <string name="step_3_des">
+        You do not have DSA Office Clearance.
+        \n
+        \n
+        \nPlease go to DSA Office and do the registration by pay 500 tk and get DSA Office clearance. 
+        \n
+        \nNote : DSA Office Collect that 500 tk for training purpose. 
+        \n
+        \n
+        \nDSA Office Address:
+        \nOffice of the Director of Student\'s Affairs(DSA Office)
+        \nLevel-4, Daffodil Tower-5
+        \n4/2, Sobhanbagh, Mirpur Road
+        \nDhaka-1207
+    </string>
+    <string name="oath_des">
+        I, do hereby swear that, the laptop that I have received from Daffodil International University (DIU) will be used for building my future career, and serving the society and the nation productively as per expectation of DIU. I will never use it for offensive or subversive activities, which will be harmful to me and my family, my university, society and the nation.
+        I also assure that, if I fail to maintain my oath in future, I will be bound to return the laptop or accept any decision imposed on me by DIU authority.
+    </string>
+</resources>
